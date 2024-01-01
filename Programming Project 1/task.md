@@ -1,0 +1,4 @@
+Your Task
+Your assignment is to complete this C++ program skeleton (XCodeLinks to an external site. VS2022Links to an external site. VS2019Links to an external site.) to produce a program that implements the described behavior. (We've indicated where you have work to do by comments containing the text TODO.  Please remove those comments as you finish each thing you have to do.)  The program skeleton you are to flesh out provides alot of code but you will be focusing your attention on the classes: Card and Hand.  You will need to complete code for the Card and Hand classes.  Details of the interface to all of these classes are in the program skeleton, but here are the essential responsibilities of each enumeration and class:  
+
+The Suit enumeration is defined in the file Enums.h and is shown below:
